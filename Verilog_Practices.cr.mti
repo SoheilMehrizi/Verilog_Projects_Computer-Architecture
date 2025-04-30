@@ -1,0 +1,50 @@
+{E:/University/Verilog Projects/Verilog_Practice/divider.v} {1 {vlog -work work -vopt -stats=none {E:\University\Verilog Projects\Verilog_Practice\divider.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module moduleName
+
+Top level modules:
+	moduleName
+
+} {} {}} {E:/University/Verilog Projects/Verilog_Practice/Up_down_Counter.v} {1 {vlog -work work -vopt -stats=none {E:\University\Verilog Projects\Verilog_Practice\Up_down_Counter.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module moduleName
+
+Top level modules:
+	moduleName
+
+} {} {}} {E:/University/Verilog Projects/Verilog_Practice/test.v} {1 {vlog -work work -vopt -stats=none {E:\University\Verilog Projects\Verilog_Practice\test.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {E:/University/Verilog Projects/Verilog_Practice/multiplexer4_2.v} {1 {vlog -work work -vopt -stats=none {E:\University\Verilog Projects\Verilog_Practice\multiplexer4_2.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module moduleName
+
+Top level modules:
+	moduleName
+
+} {} {}} {E:/University/Verilog Projects/Verilog_Practice/4_bit_adder.v} {1 {vlog -work work -vopt -stats=none {E:\University\Verilog Projects\Verilog_Practice\4_bit_adder.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module four_bit_adder
+
+Top level modules:
+	four_bit_adder
+
+} {} {}} {E:/University/Verilog Projects/Verilog_Practice/multiplexer2_1.v} {1 {vlog -work work -vopt -stats=none {E:/University/Verilog Projects/Verilog_Practice/multiplexer2_1.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module multiplexer2_1
+
+Top level modules:
+	multiplexer2_1
+
+} {} {}} {E:/University/Verilog Projects/Verilog_Practice/2_4_Decoder.v} {1 {vlog -work work -vopt -stats=none {E:\University\Verilog Projects\Verilog_Practice\2_4_Decoder.v}
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module moduleName
+
+Top level modules:
+	moduleName
+
+} {} {}}

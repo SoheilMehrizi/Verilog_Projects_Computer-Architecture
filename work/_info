@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/University/Verilog Projects/Examples
+vfour_bit_adder
+!s110 1673342163
+!i10b 1
+!s100 `HDmMoZdPZ>0RlVCXSLX73
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZY;GEKPSJ@K9N]`?Pn9F=2
+Z1 dE:/University/Verilog Projects/Verilog_Practice
+w1673342157
+8E:\University\Verilog Projects\Verilog_Practice\4_bit_adder.v
+FE:\University\Verilog Projects\Verilog_Practice\4_bit_adder.v
+!i122 8
+L0 1 46
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1673342163.000000
+!s107 E:\University\Verilog Projects\Verilog_Practice\4_bit_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\University\Verilog Projects\Verilog_Practice\4_bit_adder.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vmoduleName
+!s110 1671784399
+!i10b 1
+!s100 @M3<cT=RB<gkJz;K[bB^_0
+R0
+Ic@I^Wz8QJjo0odg[cfhB60
+R1
+w1671784394
+8E:\University\Verilog Projects\Verilog_Practice\Up_down_Counter.v
+FE:\University\Verilog Projects\Verilog_Practice\Up_down_Counter.v
+!i122 5
+L0 6 40
+R2
+R3
+r1
+!s85 0
+31
+!s108 1671784399.000000
+!s107 E:\University\Verilog Projects\Verilog_Practice\Up_down_Counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\University\Verilog Projects\Verilog_Practice\Up_down_Counter.v|
+!i113 0
+R4
+R5
+nmodule@name
+vmultiplexer2_1
+!s110 1671781774
+!i10b 1
+!s100 G5T<<F@8UV8hV7`A:TXPG0
+R0
+Io;ol@<YTcc?MT7nhG32zg2
+R1
+w1671564503
+8E:/University/Verilog Projects/Verilog_Practice/multiplexer2_1.v
+FE:/University/Verilog Projects/Verilog_Practice/multiplexer2_1.v
+!i122 3
+L0 1 11
+R2
+R3
+r1
+!s85 0
+31
+!s108 1671781773.000000
+!s107 E:/University/Verilog Projects/Verilog_Practice/multiplexer2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/University/Verilog Projects/Verilog_Practice/multiplexer2_1.v|
+!i113 0
+R4
+R5
+vtest
+!s110 1673339961
+!i10b 1
+!s100 OCXU0zR4Gf4h<S6o`zC1M1
+R0
+IXQ8[_=i9i`4L0nD<foKnK1
+R1
+w1673339953
+8E:\University\Verilog Projects\Verilog_Practice\test.v
+FE:\University\Verilog Projects\Verilog_Practice\test.v
+!i122 7
+L0 1 14
+R2
+R3
+r1
+!s85 0
+31
+!s108 1673339961.000000
+!s107 E:\University\Verilog Projects\Verilog_Practice\test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:\University\Verilog Projects\Verilog_Practice\test.v|
+!i113 0
+R4
+R5
